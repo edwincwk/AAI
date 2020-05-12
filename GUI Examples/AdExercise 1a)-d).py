@@ -121,7 +121,7 @@ def displayOption(tg):
         print(e)
         
 def main():
-    tg = TutorialGroup('SUSS')
+    tg = TutorialGroup('')
     tg.addStudent('s1', 'John')
     tg.addStudent('s2', 'Peter')
     tg.addStudent('s3', 'Joe')
